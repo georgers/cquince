@@ -1,3 +1,4 @@
 Welcome to my first repo
 Learning Git is going well so far.
 adding new line in branch update version
+It's sunny outside today!
