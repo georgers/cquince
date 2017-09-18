@@ -1,6 +1,22 @@
+### Geography
+I live in the United States
+
+### Reading
+My favorite book is Don Quixote
+
+### Food
+Avacadoes are great!
+
+### Contact
+Try snail mail!
+
+
+
 # This is a large heading
 
 ## This is a smaller heading
+
+### Is this even smaller?
 
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet’s pen,
